@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-    <img src="./assets/profile-hero-dark.svg" alt="Leydi Laura - animated developer profile hero" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vshymanskyy/vshymanskyy/main/profile-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vshymanskyy/vshymanskyy/main/profile-hero-light.svg">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/vshymanskyy/main/profile-hero-dark.svg" alt="Leydi Laura - animated developer profile hero" width="100%">
   </picture>
 </p>
 
@@ -61,24 +61,6 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
----
-
-<h2 align="center">🏅 Insignias digitales 🏅</h2>
-<p align="center">
-  <a href="#" target="_blank"><img width="80" height="80" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="Make Intermediate" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" alt="AI Automation Explorer" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37" alt="Make Foundation" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d" alt="Make Basics" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/linux.png" alt="Terminaled" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/firstfour.png" alt="First 4 Rooms" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/webbed.png" alt="Web Fundamentals" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/league-bronze.png" alt="Bronze League" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/howthewebworks.png" alt="World Wide Web" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/3million.png" alt="3 Million Legend" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/blue.png" alt="Blue" /></a>
-  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/mrrobot.png" alt="Mr. Robot" /></a>
-</p>
 
 ---
 
