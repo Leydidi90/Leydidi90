@@ -38,9 +38,9 @@
 
 ---
 
-<h2 align="center">📈 Gráfico de Contribuciones 📈</h2>
+<h2 align="center">🔥 Racha de Contribuciones 🔥</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leydidi90&bg_color=1e1030&color=ffffff&line=a855f7&point=d8b4fe&hide_border=true" alt="Contribution Activity Graph">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leydidi90&theme=dracula&hide_border=true&background=1e1030&ring=a855f7&fire=a855f7&currStreakNum=ffffff" alt="GitHub Streak Stats">
 </div>
 
 ---
