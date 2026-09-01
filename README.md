@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=Leydidi90&theme=dracula&label=Leydi%20Laura" width="100%" alt="Wordmark para Leydi Laura" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladasanadev/vladasanadev/main/assets/profile-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladasanadev/vladasanadev/main/assets/profile-hero-light.svg">
+    <img src="https://raw.githubusercontent.com/vladasanadev/vladasanadev/main/assets/profile-hero-dark.svg" alt="Animated developer profile hero" width="100%">
+  </picture>
 </p>
 
 <h2 align="center">💜 Sobre mí 💜</h2>
@@ -51,7 +55,6 @@
 
 <h2 align="center">👻 Pacman Contribution Graph 👻</h2>
 <div align="center">
-  <!-- Muestra el gráfico animado de pacman comiendo los commits -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leydidi90/Leydidi90/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leydidi90/Leydidi90/output/pacman-contribution-graph.svg">
