@@ -51,10 +51,11 @@
 
 <h2 align="center">👻 Pacman Contribution Graph 👻</h2>
 <div align="center">
+  <!-- Muestra el gráfico animado de pacman comiendo los commits -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leydidi90/Leydidi90/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leydidi90/Leydidi90/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leydidi90/Leydidi90/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
