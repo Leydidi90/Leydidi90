@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladasanadev/vladasanadev/main/assets/profile-hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vladasanadev/vladasanadev/main/assets/profile-hero-light.svg">
-    <img src="https://raw.githubusercontent.com/vladasanadev/vladasanadev/main/assets/profile-hero-dark.svg" alt="Animated developer profile hero" width="100%">
-  </picture>
+  <img src="./assets/IMAGE.jpeg" width="250" height="250" style="border-radius: 50%; object-fit: cover; border: 4px solid #8B5CF6;" alt="Foto de Leydi Laura">
 </p>
 
 <h2 align="center">💜 Sobre mí 💜</h2>
