@@ -4,9 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vshymanskyy/vshymanskyy/main/profile-hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vshymanskyy/vshymanskyy/main/profile-hero-light.svg">
-    <img src="https://raw.githubusercontent.com/vshymanskyy/vshymanskyy/main/profile-hero-dark.svg" alt="Leydi Laura - animated developer profile hero" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aa-maker-dev&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=aa-maker-dev&theme=aurora&mode=dark" width="100%" alt="Animated profile hero" />
   </picture>
 </p>
 
