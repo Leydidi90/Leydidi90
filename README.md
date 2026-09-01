@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aa-maker-dev&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=aa-maker-dev&theme=aurora&mode=dark" width="100%" alt="Animated profile hero" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/wordmark?username=Leydidi90&theme=dracula&label=Leydi%20Laura" width="100%" alt="Wordmark para Leydi Laura" />
 </p>
 
 <h2 align="center">💜 Sobre mí 💜</h2>
