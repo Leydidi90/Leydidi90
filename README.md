@@ -26,22 +26,59 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Herramientas 🛠️</h2>
+<h2 align="center">🛠️ Tech Stack & Aprendizaje Actual 🛠️</h2>
+<br>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Leydidi90&theme=dracula" width="100%" alt="Technology stack for Leydi Laura" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/main/Skills_Animation_White.gif">
+  <img align="left" alt="Animación de tecnologías" src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/main/Skills_Animation_White.gif" width="400" style="margin-right: 30px;">
+</picture>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=Leydidi90&theme=dracula" width="100%" alt="GitHub activity stats for Leydi Laura" />
-</p>
+<br>
+<h3 align="left">Aprendizaje actual</h3>
+<ul align="left">
+  <li>Profundizar en habilidades de ciberseguridad, infraestructura web y Cloud Computing (Google Cloud, Azure).</li>
+  <li>Explorando el diseño de sistemas, seguridad en bases de datos y arquitectura de backend.</li>
+  <li>Practicar patrones de código limpio, automatización de procesos, rendimiento y accesibilidad.</li>
+</ul>
+<br clear="all" />
 
 ---
 
-<h2 align="center">🔥 Racha de Contribuciones 🔥</h2>
+<h2 align="center">📈 Racha de Contribuciones 📈</h2>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leydidi90&theme=dracula&hide_border=true&background=1e1030&ring=a855f7&fire=a855f7&currStreakNum=ffffff" alt="GitHub Streak Stats">
 </div>
+
+---
+
+<h2 align="center">👻 Pacman Contribution Graph 👻</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+---
+
+<h2 align="center">🏅 Insignias digitales 🏅</h2>
+<p align="center">
+  <a href="#" target="_blank"><img width="80" height="80" src="https://images.credly.com/size/220x220/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" alt="Make Intermediate" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/e5d91e52-9124-4de3-99ff-1b57030637a1" alt="AI Automation Explorer" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/91d158d5-c7e3-457d-ae1e-715da3219f37" alt="Make Foundation" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/0a590f65-48f3-4bbc-bdbd-a104eb804d5d" alt="Make Basics" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/linux.png" alt="Terminaled" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/firstfour.png" alt="First 4 Rooms" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/webbed.png" alt="Web Fundamentals" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/league-bronze.png" alt="Bronze League" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/howthewebworks.png" alt="World Wide Web" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/3million.png" alt="3 Million Legend" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/blue.png" alt="Blue" /></a>
+  <a href="#" target="_blank"><img width="80" height="80" src="https://assets.tryhackme.com/img/badges/mrrobot.png" alt="Mr. Robot" /></a>
+</p>
 
 ---
 
