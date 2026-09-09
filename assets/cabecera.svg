@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img">
+<title>Leydi Laura: desarrollo, datos y ciberseguridad</title>
+<defs>
+<radialGradient id="bg"><stop stop-color="#0c2940"/><stop offset="1" stop-color="#070e17"/></radialGradient>
+<linearGradient id="accent"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<linearGradient id="screen" x2="1" y2="1"><stop stop-color="#123453"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="958" height="268" rx="15" fill="#080f19" stroke="#17354b"/>
+<ellipse cx="765" cy="135" rx="186" ry="124" fill="url(#bg)"/>
+<g fill="#38bdf8" opacity=".65">
+<circle cx="611" cy="40" r="2"/><circle cx="687" cy="28" r="2"/><circle cx="898" cy="58" r="2"/><circle cx="922" cy="151" r="2"/><circle cx="634" cy="185" r="2"/><circle cx="857" cy="228" r="2"/>
+<animate attributeName="opacity" values=".3;.8;.3" dur="5s" repeatCount="indefinite"/>
+</g>
+<g fill="none" stroke="#2276a6" opacity=".8">
+<ellipse cx="772" cy="149" rx="149" ry="43" transform="rotate(-22 772 149)"/>
+<ellipse cx="772" cy="149" rx="147" ry="45" transform="rotate(27 772 149)"/>
+</g>
+<circle r="4" fill="#67e8f9"><animateMotion path="M623 149 A149 43 0 1 1 921 149 A149 43 0 1 1 623 149" dur="13s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#60a5fa"><animateMotion path="M625 140 Q770 30 913 183 Q769 270 625 140" dur="17s" repeatCount="indefinite"/></circle>
+<!-- Ilustración vectorial original de una programadora, no un retrato fotográfico. -->
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="5s" repeatCount="indefinite"/>
+<ellipse cx="784" cy="222" rx="103" ry="13" fill="#030911"/>
+<path d="M739 217 Q744 169 785 159 Q830 158 854 209 L840 222Z" fill="#0c2940" stroke="#3593bf"/>
+<path d="M771 124 Q746 95 759 67 Q770 41 797 48 Q824 50 831 78 L827 143 L778 151Z" fill="#071522" stroke="#3989af" stroke-width="1.5"/>
+<path d="M779 108 L778 130 Q792 147 805 129 L801 107" fill="#c38972"/>
+<path d="M771 75 Q784 59 805 73 L808 91 Q807 114 793 119 Q775 115 771 98Z" fill="#e7b39a"/>
+<path d="M767 88 Q777 82 778 68 Q801 83 815 84 L812 65 L782 57 L766 70Z" fill="#071522"/>
+<path d="M782 91 l5 0 M797 92 l5 0" stroke="#243d4f" stroke-width="2" stroke-linecap="round"/>
+<path d="M789 104 Q794 107 798 103" fill="none" stroke="#a46661" stroke-width="1.5"/>
+<path d="M778 125 Q755 126 745 143 L752 183 L814 186 L823 148 Q817 132 805 128 Q792 144 778 125Z" fill="#10304a" stroke="#4397ba" stroke-width="1.5"/>
+<path d="M750 143 L734 174 L763 188" fill="none" stroke="#4397ba" stroke-width="15" stroke-linecap="round"/>
+<path d="M818 146 L833 177 L790 190" fill="none" stroke="#215574" stroke-width="15" stroke-linecap="round"/>
+<path d="M761 185 L778 183 M790 188 L776 187" stroke="#e7b39a" stroke-width="9" stroke-linecap="round"/>
+<path d="M754 187 Q774 186 792 206 L830 219 L771 220 L733 204Z" fill="#102d44" stroke="#3d7d9c"/>
+<path d="M719 158 L777 166 L790 204 L730 194Z" fill="url(#screen)" stroke="#67e8f9" stroke-width="2"/>
+<path d="M730 194 L790 204 L810 201 L751 190Z" fill="#1b5777" stroke="#67e8f9"/>
+<text x="748" y="184" font-family="DejaVu Sans,sans-serif" font-size="15" fill="#67e8f9" transform="rotate(10 748 184)">&lt;/&gt;</text>
+</g>
+<g font-family="DejaVu Sans,sans-serif">
+<text x="32" y="35" font-size="11" letter-spacing="2" fill="#77a7c0">LEYDIDI90 / README.md</text>
+<text x="32" y="91" font-size="36" font-weight="bold" fill="#f0f9ff">Hola, soy <tspan fill="#38bdf8">Leydi Laura</tspan></text>
+<text x="32" y="121" font-size="15" fill="#c0dfed">Desarrollo · Datos · Ciberseguridad</text>
+<text x="32" y="157" font-size="13" fill="#a5bacb">Estudiante de Ingeniería en Sistemas Computacionales</text>
+<text x="32" y="179" font-size="13" fill="#a5bacb">Tecnológico de Estudios Superiores de Jocotitlán</text>
+<text x="32" y="223" font-size="12" fill="#7dd3fc">Aprender con curiosidad. Construir con propósito.</text>
+</g>
+<rect x="32" y="242" width="70" height="2" rx="1" fill="url(#accent)"><animate attributeName="width" values="70;160;70" dur="6s" repeatCount="indefinite"/></rect>
+</svg>
