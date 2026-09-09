@@ -8,6 +8,10 @@
 
 <div align="center">
 
+<a href="https://github.com/Leydidi90">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3000&amp;pause=1100&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=65&amp;lines=Hola%2C+soy+Leydi+Laura+%E2%9C%A8;Desarrollo+%C2%B7+Datos+%C2%B7+Ciberseguridad;Aprendiendo%2C+creando+y+mejorando" width="650" alt="Hola, soy Leydi Laura. Desarrollo, datos y ciberseguridad. Aprendiendo, creando y mejorando." />
+</a>
+
 Curiosidad para aprender. Creatividad para construir.
 
 Estudiante de Ingeniería en Sistemas Computacionales · TESJo
@@ -77,59 +81,76 @@ Estudiante de Ingeniería en Sistemas Computacionales · TESJo
 
 <a name="tecnologias"></a>
 
-🛠️ Mi caja de herramientas
+<h2 align="center">✦ Mi universo tecnológico ✦</h2>
+<p align="center">Las herramientas con las que doy forma a mis ideas.</p>
 
-<p>Tecnologías con las que he trabajado, organizadas por área.</p>
-
-<h3>01 &nbsp; / &nbsp; Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-312E81?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-5B21B6?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres&amp;theme=dark&amp;perline=5" width="320" alt="React, Tailwind CSS, Node.js, Express y PostgreSQL" />
+  </a>
 </p>
 
-<h3>02 &nbsp; / &nbsp; Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-312E81?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-5B21B6?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
-</p>
+<br>
 
-<h3>03 &nbsp; / &nbsp; Bases de datos</h3>
-<p>
-  <img src="https://img.shields.io/badge/Oracle-312E81?style=for-the-badge" alt="Oracle" />
-  <img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+  <h3>🎨 FRONTEND</h3>
+  <p><sub>Interfaces y experiencia de usuario</sub></p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind&amp;theme=dark" width="130" alt="React y Tailwind CSS" />
+  <p><b>React · Tailwind CSS</b></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <h3>⚙️ BACKEND</h3>
+  <p><sub>Servicios y lógica de aplicaciones</sub></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=dark" width="130" alt="Node.js y Express" />
+  <p><b>Node.js · Express</b></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <h3>🗄️ BASES DE DATOS</h3>
+  <p><sub>Información organizada y conectada</sub></p>
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="60" alt="PostgreSQL" />
+  <p><b>PostgreSQL · Oracle</b></p>
+  <img src="https://img.shields.io/badge/Oracle-C4B5FD?style=flat-square&amp;labelColor=1E1030" alt="Oracle" />
+</td>
+<td width="50%" align="center" valign="top">
+  <h3>☁️ CLOUD · EN APRENDIZAJE</h3>
+  <p><sub>Explorando nuevas posibilidades</sub></p>
+  <img src="https://skillicons.dev/icons?i=gcp,azure&amp;theme=dark" width="130" alt="Google Cloud y Azure, en aprendizaje" />
+  <p><b>Google Cloud · Azure</b></p>
+</td>
+</tr>
+</table>
 
 <br>
 
 <a name="aprendizaje"></a>
 
-🌱 Siempre en construcción
+<h2 align="center">🌙 Aprender también es parte del viaje</h2>
 
-Lo que estoy explorando y practicando actualmente:
-
-Área
-
-Mi enfoque
-
-☁️ Cloud Computing
-
-Profundizar en Google Cloud y Azure.
-
-🔐 Ciberseguridad
-
-Fortalecer conocimientos de seguridad en aplicaciones, infraestructura y datos.
-
-🧩 Arquitectura backend
-
-Explorar el diseño de sistemas y la organización de servicios.
-
-⚙️ Automatización
-
-Reducir tareas repetitivas y mejorar flujos de trabajo.
-
-✨ Calidad de software
-
-Practicar código limpio, rendimiento y accesibilidad.
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/main/Skills_Animation_White.gif">
+    <img src="https://raw.githubusercontent.com/aa-maker-dev/AA-maker-dev/main/Skills_Animation_White.gif" width="290" alt="Ilustración animada de un universo de tecnologías" />
+  </picture>
+  <br>
+  <sub>Un universo por descubrir ✨</sub>
+  <!-- Animación decorativa del README original; las herramientas que uso se indican arriba. -->
+</td>
+<td width="55%" valign="middle">
+  <h3>Mi siguiente capítulo</h3>
+  <p>☁️ <b>Cloud Computing</b><br><sub>Profundizar en Google Cloud y Azure.</sub></p>
+  <p>🔐 <b>Ciberseguridad</b><br><sub>Seguridad de aplicaciones, infraestructura y datos.</sub></p>
+  <p>🧩 <b>Arquitectura backend</b><br><sub>Diseño de sistemas y organización de servicios.</sub></p>
+  <p>⚡ <b>Automatización y calidad</b><br><sub>Menos tareas repetitivas; código más claro y accesible.</sub></p>
+</td>
+</tr>
+</table>
 
 <br>
 
